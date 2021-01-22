@@ -1,0 +1,13 @@
+/*styling using id*/
+#dell{
+	color: grey;
+}
+/*styling using class link*/
+.mit{
+	font-weight: lighter;
+}
+/*styling using the tag*/
+p{
+	color: maroon;
+
+}
